@@ -1,0 +1,2 @@
+- Hi, I’m Daniel Bates
+- I'm a 2nd year Computer Science For Game Development student at the University Of Hull
